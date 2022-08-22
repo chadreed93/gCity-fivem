@@ -1,0 +1,107 @@
+
+================================================================
+======== txAdmin Starting - 3/17/2022, 2:27:37 PM               
+================================================================
+[14:28:23] [ASTClanReborn] created admins file
+[14:29:41] [ASTClanReborn] Changing global settings via setup stepper and started Deployer.
+[14:29:45] [ASTClanReborn] Setting recipe.
+[14:30:05] [ASTClanReborn] Running recipe.
+[14:30:46] [ASTClanReborn] Configured server.cfg from deployer.
+[14:30:46] [ASTClanReborn] Completed and committed server deploy.
+
+================================================================
+======== txAdmin Starting - 3/17/2022, 2:46:11 PM               
+================================================================
+
+================================================================
+======== txAdmin Starting - 3/17/2022, 2:51:29 PM               
+================================================================
+[15:00:21] [ASTClanReborn] logged in from 127.0.0.1 via citizenfx
+[15:00:32] [ASTClanReborn] start basic-gamemode
+[15:09:32] [ASTClanReborn] restart vMenu
+[15:10:26] [ASTClanReborn] stop vMenu
+[15:11:15] [ASTClanReborn] refresh
+[15:11:24] [ASTClanReborn] exec server.cfg
+[15:11:33] [ASTClanReborn] refresh
+[15:11:37] [ASTClanReborn] start vMenu
+[15:11:39] [MONITOR] Restarting server (server close detected).
+[15:11:57] [ASTClanReborn] STOP SERVER
+[15:15:26] [ASTClanReborn] START SERVER
+
+================================================================
+======== txAdmin Starting - 3/17/2022, 3:15:52 PM               
+================================================================
+[15:16:04] [ASTClanReborn] logged in from 127.0.0.1 via citizenfx
+[15:21:32] [ASTClanReborn] start base-gamemode
+[15:21:37] [ASTClanReborn] start basic-gamemode
+[15:23:51] [ASTClanReborn] STOP SERVER
+[15:24:49] [ASTClanReborn] Editing server CFG File.
+[15:24:50] [ASTClanReborn] Editing server CFG File.
+[15:25:10] [ASTClanReborn] START SERVER
+[15:25:16] [ASTClanReborn] STOP SERVER
+[15:28:13] [ASTClanReborn] START SERVER
+[22:16:18] [ASTClanReborn] RESTART SERVER
+[22:38:24] [ASTClanReborn] restart elc-fivem
+[11:58:05] [ASTClanReborn] STOP SERVER
+[11:59:31] [ASTClanReborn] START SERVER
+[12:07:14] [ASTClanReborn] refresh
+[12:07:18] [ASTClanReborn] restart elc-fivem
+[12:19:28] [ASTClanReborn] RESTART SERVER
+[12:25:03] [ASTClanReborn] RESTART SERVER
+[12:47:12] [ASTClanReborn] RESTART SERVER
+[12:55:18] [ASTClanReborn] RESTART SERVER
+[13:15:06] [ASTClanReborn] RESTART SERVER
+[13:59:58] [ASTClanReborn] RESTART SERVER
+[15:40:54] [ASTClanReborn] logged in from 127.0.0.1 via citizenfx
+[15:41:00] [ASTClanReborn] STOP SERVER
+[15:42:11] [ASTClanReborn] START SERVER
+[15:52:23] [ASTClanReborn] RESTART SERVER
+[15:57:37] [ASTClanReborn] RESTART SERVER
+[20:44:38] [ASTClanReborn] RESTART SERVER
+[22:04:39] [ASTClanReborn] RESTART SERVER
+[22:50:43] [ASTClanReborn] RESTART SERVER
+[23:01:22] [ASTClanReborn] RESTART SERVER
+[14:58:13] [ASTClanReborn] STOP SERVER
+[14:58:17] [ASTClanReborn] START SERVER
+[14:58:47] [ASTClanReborn] RESTART SERVER
+[15:08:26] [ASTClanReborn] RESTART SERVER
+[15:17:11] [ASTClanReborn] RESTART SERVER
+[16:04:30] [ASTClanReborn] logged in from 127.0.0.1 via citizenfx
+[16:04:33] [ASTClanReborn] RESTART SERVER
+[17:25:36] [ASTClanReborn] refresh
+[17:25:45] [ASTClanReborn] ensure ast_streetLabel
+[21:01:29] [ASTClanReborn] RESTART SERVER
+[23:08:05] [ASTClanReborn] RESTART SERVER
+[23:55:00] [ASTClanReborn] RESTART SERVER
+[00:08:06] [ASTClanReborn] restart eup-ui
+[00:11:34] [ASTClanReborn] restart eup-ui
+[00:13:58] [ASTClanReborn] restart eup-ui
+[00:14:35] [ASTClanReborn] restart eup-ui
+[01:26:49] [ASTClanReborn] RESTART SERVER
+[01:43:46] [ASTClanReborn] RESTART SERVER
+[12:09:07] [ASTClanReborn] status
+[12:09:11] [ASTClanReborn] stats
+[12:09:13] [ASTClanReborn] players
+[12:09:18] [ASTClanReborn] say cunts
+[12:09:46] [ASTClanReborn] say '/tweet aye yoo yoo yoo yoo"
+[12:09:55] [ASTClanReborn] say '/tweet aye yoo yoo yoo yoo family im the console'
+
+================================================================
+======== txAdmin Starting - 3/20/2022, 3:12:10 PM               
+================================================================
+
+================================================================
+======== txAdmin Starting - 3/20/2022, 5:53:17 PM               
+================================================================
+
+================================================================
+======== txAdmin Starting - 3/20/2022, 6:09:58 PM               
+================================================================
+
+================================================================
+======== txAdmin Starting - 3/20/2022, 6:47:52 PM               
+================================================================
+
+================================================================
+======== txAdmin Starting - 3/20/2022, 6:48:45 PM               
+================================================================

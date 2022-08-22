@@ -1,0 +1,52 @@
+
+================================================================
+======== txAdmin Starting - 8/19/2022, 2:40:58 PM               
+================================================================
+
+================================================================
+======== Log Rotated - 8/19/2022, 2:40:59 PM                    
+================================================================
+[14:43:10] [ASTClanReborn] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 8/19/2022, 2:46:01 PM               
+================================================================
+
+================================================================
+======== txAdmin Starting - 8/19/2022, 2:49:12 PM               
+================================================================
+[14:50:07] [ASTClanReborn] logged in via in-game ui
+[14:58:45] [ASTClanReborn] logged in via in-game ui
+[15:19:57] [ASTClanReborn] logged in via in-game ui
+[18:02:39] [B34R] logged in from 50.69.238.90 via password
+[18:03:21] [B34R] Editing server CFG File.
+[18:04:19] [B34R] Sending announcement: SERVER RESTART TO FIX MINOR ISSUES
+[18:04:28] [B34R] RESTART SERVER
+[18:09:06] [B34R] logged in via in-game ui
+[18:09:27] [ASTClanReborn] logged in via in-game ui
+[18:21:47] [B34R] ensure "dpclothing"
+[18:22:27] [B34R] Editing server CFG File.
+[18:25:33] [B34R] restart nd_doorlocks
+[18:25:52] [B34R] restart ND_Doorlocks
+[18:26:40] [B34R] restart ND_Doorlocks
+[18:43:49] [B34R] stop ast_emotes
+[18:44:01] [B34R] start dpemotes
+
+================================================================
+======== txAdmin Starting - 8/19/2022, 7:30:27 PM               
+================================================================
+[19:33:58] [B34R] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 8/19/2022, 7:34:05 PM               
+================================================================
+[19:38:12] [B34R] logged in via in-game ui
+[19:38:52] [ASTClanReborn] logged in from 127.0.0.1 via citizenfx
+[19:38:53] [B34R] logged in via in-game ui
+[19:40:07] [B34R] logged in from 50.69.238.90 via password
+[19:40:07] [ASTClanReborn] logged in via in-game ui
+[19:40:17] [B34R] stop "ast_emotes"
+[19:40:24] [B34R] ensure "dpemotes"
+[20:30:42] [B34R] STOP ND_Fuel
+[20:58:37] [B34R] logged in from via NUI iframe
+[20:59:37] [B34R] Warned #6: NITRP (No Intent To Roleplay) LERP (Low Effort Roleplay)

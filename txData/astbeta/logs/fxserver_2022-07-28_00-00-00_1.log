@@ -1,0 +1,8 @@
+
+================================================================
+======== Log Rotated - 7/28/2022, 12:00:00 AM                   
+================================================================
+[      script:oxmysql] [WARNING] qb-crypto took 536.0049ms to execute a query!
+[      script:oxmysql]     UPDATE crypto set worth = ?, history = ? where crypto = ? [1012,"[{\"NewWorth\":1011,\"PreviousWorth\":1017},{\"NewWorth\":1011,\"PreviousWorth\":1017},{\"NewWorth\":1011,\"PreviousWorth\":1017},{\"NewWorth\":1012,\"PreviousWorth\":1011}]","qbit"]
+[      script:oxmysql] [97m[WARNING] qb-crypto took 644.8475ms to execute a query!
+[      script:oxmysql]     UPDATE crypto set worth = ?, history = ? where crypto = ? [990,"[{\"NewWorth\":984,\"PreviousWorth\":984},{\"NewWorth\":984,\"PreviousWorth\":984},{\"NewWorth\":984,\"PreviousWorth\":984},{\"NewWorth\":990,\"PreviousWorth\":984}]","qbit"]

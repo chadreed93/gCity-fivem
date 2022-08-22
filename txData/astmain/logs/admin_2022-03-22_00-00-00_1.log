@@ -1,0 +1,75 @@
+
+================================================================
+======== txAdmin Starting - 3/22/2022, 12:09:49 AM              
+================================================================
+
+================================================================
+======== Log Rotated - 3/22/2022, 12:09:49 AM                   
+================================================================
+
+================================================================
+======== txAdmin Starting - 3/22/2022, 12:36:39 AM              
+================================================================
+
+================================================================
+======== txAdmin Starting - 3/22/2022, 3:25:18 AM               
+================================================================
+
+================================================================
+======== txAdmin Starting - 3/22/2022, 4:11:03 AM               
+================================================================
+
+================================================================
+======== txAdmin Starting - 3/22/2022, 4:38:19 AM               
+================================================================
+
+================================================================
+======== txAdmin Starting - 3/22/2022, 6:00:04 AM               
+================================================================
+[06:06:02] [ASTClanReborn] logged in from 127.0.0.1 via citizenfx
+[06:06:12] [ASTClanReborn] restart tokovoip_script
+[06:09:11] [ASTClanReborn] stop ws_server
+[06:09:17] [ASTClanReborn] start ws_server
+[06:13:02] [ASTClanReborn] start tokovoip_script
+[06:13:42] [ASTClanReborn] stop tokovoip_script
+[06:18:39] [ASTClanReborn] start tokovoip_script
+
+================================================================
+======== txAdmin Starting - 3/22/2022, 6:28:34 AM               
+================================================================
+[06:28:53] [ASTClanReborn] logged in from 127.0.0.1 via citizenfx
+[06:29:04] [ASTClanReborn] stop tokovoip_script
+[06:29:09] [ASTClanReborn] start tokovoip_script
+[06:34:00] [ASTClanReborn] open ws_server
+[06:34:05] [ASTClanReborn] start ws_server
+[06:34:09] [ASTClanReborn] stop ws_server
+[06:34:12] [ASTClanReborn] start ws_server
+[06:34:27] [ASTClanReborn] start tokovoip_script
+[06:34:32] [ASTClanReborn] stop tokovoip_script
+[06:34:37] [ASTClanReborn] start tokovoip_script
+[06:39:00] [ASTClanReborn] restart tokovoip_script
+
+================================================================
+======== txAdmin Starting - 3/22/2022, 8:38:32 AM               
+================================================================
+
+================================================================
+======== txAdmin Starting - 3/22/2022, 8:49:15 AM               
+================================================================
+
+================================================================
+======== txAdmin Starting - 3/22/2022, 7:59:26 PM               
+================================================================
+[20:20:56] [ASTClanReborn] logged in from 127.0.0.1 via citizenfx
+[20:21:02] [ASTClanReborn] restart ws_server
+[20:21:09] [ASTClanReborn] restart tokovoip_script
+[20:23:50] [ASTClanReborn] stop tokovoip_script
+[20:23:52] [ASTClanReborn] stop ws_server
+[20:29:16] [ASTClanReborn] start tokovoip_script
+[20:32:22] [ASTClanReborn] refresh
+[20:32:28] [ASTClanReborn] stop tokovoip_script
+[20:32:35] [ASTClanReborn] start tokovoip_script
+
+================================================================
+======== txAdmin Starting - 3/22/2022, 9:02:03 PM               
+================================================================

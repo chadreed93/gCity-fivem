@@ -1,0 +1,272 @@
+2022/08/14-00:05:04.561126 18a4 RocksDB version: 6.10.0
+2022/08/14-00:05:04.561204 18a4 Git sha rocksdb_build_git_sha:@@GIT_SHA@@
+2022/08/14-00:05:04.561219 18a4 Compile date Apr 22 2022
+2022/08/14-00:05:04.561515 18a4 DB SUMMARY
+2022/08/14-00:05:04.562043 18a4 CURRENT file:  CURRENT
+2022/08/14-00:05:04.562056 18a4 IDENTITY file:  IDENTITY
+2022/08/14-00:05:04.562140 18a4 MANIFEST file:  MANIFEST-000005 size: 59 Bytes
+2022/08/14-00:05:04.562153 18a4 SST files in C:\Users\Administrator\Desktop\FiveM\txData\astbeta\ast\db\default dir, Total Num: 0, files: 
+2022/08/14-00:05:04.562161 18a4 Write Ahead Log file in C:\Users\Administrator\Desktop\FiveM\txData\astbeta\ast\db\default: 000006.log size: 0 ; 
+2022/08/14-00:05:04.562170 18a4                         Options.error_if_exists: 0
+2022/08/14-00:05:04.562305 18a4                       Options.create_if_missing: 1
+2022/08/14-00:05:04.562312 18a4                         Options.paranoid_checks: 1
+2022/08/14-00:05:04.562314 18a4                                     Options.env: 000001B8AFDC6640
+2022/08/14-00:05:04.562317 18a4                                      Options.fs: Legacy File System
+2022/08/14-00:05:04.562320 18a4                                Options.info_log: 000001B89D5FACD0
+2022/08/14-00:05:04.562323 18a4                Options.max_file_opening_threads: 16
+2022/08/14-00:05:04.562325 18a4                              Options.statistics: 0000000000000000
+2022/08/14-00:05:04.562328 18a4                               Options.use_fsync: 0
+2022/08/14-00:05:04.562331 18a4                       Options.max_log_file_size: 0
+2022/08/14-00:05:04.562333 18a4                  Options.max_manifest_file_size: 1073741824
+2022/08/14-00:05:04.562336 18a4                   Options.log_file_time_to_roll: 0
+2022/08/14-00:05:04.562339 18a4                       Options.keep_log_file_num: 10
+2022/08/14-00:05:04.562341 18a4                    Options.recycle_log_file_num: 0
+2022/08/14-00:05:04.562344 18a4                         Options.allow_fallocate: 1
+2022/08/14-00:05:04.562346 18a4                        Options.allow_mmap_reads: 0
+2022/08/14-00:05:04.562349 18a4                       Options.allow_mmap_writes: 0
+2022/08/14-00:05:04.562351 18a4                        Options.use_direct_reads: 0
+2022/08/14-00:05:04.562354 18a4                        Options.use_direct_io_for_flush_and_compaction: 0
+2022/08/14-00:05:04.562356 18a4          Options.create_missing_column_families: 0
+2022/08/14-00:05:04.562359 18a4                              Options.db_log_dir: 
+2022/08/14-00:05:04.562361 18a4                                 Options.wal_dir: C:\Users\Administrator\Desktop\FiveM\txData\astbeta\ast\db\default
+2022/08/14-00:05:04.562364 18a4                Options.table_cache_numshardbits: 6
+2022/08/14-00:05:04.562367 18a4                      Options.max_subcompactions: 1
+2022/08/14-00:05:04.562369 18a4                         Options.WAL_ttl_seconds: 0
+2022/08/14-00:05:04.562372 18a4                       Options.WAL_size_limit_MB: 0
+2022/08/14-00:05:04.562374 18a4                        Options.max_write_batch_group_size_bytes: 1048576
+2022/08/14-00:05:04.562377 18a4             Options.manifest_preallocation_size: 4194304
+2022/08/14-00:05:04.562379 18a4                     Options.is_fd_close_on_exec: 1
+2022/08/14-00:05:04.562382 18a4                   Options.advise_random_on_open: 1
+2022/08/14-00:05:04.562384 18a4                    Options.db_write_buffer_size: 0
+2022/08/14-00:05:04.562387 18a4                    Options.write_buffer_manager: 000001B8AFDF4C20
+2022/08/14-00:05:04.562390 18a4         Options.access_hint_on_compaction_start: 1
+2022/08/14-00:05:04.562392 18a4  Options.new_table_reader_for_compaction_inputs: 0
+2022/08/14-00:05:04.562395 18a4           Options.random_access_max_buffer_size: 1048576
+2022/08/14-00:05:04.562397 18a4                      Options.use_adaptive_mutex: 0
+2022/08/14-00:05:04.562400 18a4                            Options.rate_limiter: 0000000000000000
+2022/08/14-00:05:04.562402 18a4     Options.sst_file_manager.rate_bytes_per_sec: 0
+2022/08/14-00:05:04.562405 18a4                       Options.wal_recovery_mode: 2
+2022/08/14-00:05:04.562433 18a4                  Options.enable_thread_tracking: 0
+2022/08/14-00:05:04.562438 18a4                  Options.enable_pipelined_write: 0
+2022/08/14-00:05:04.562441 18a4                  Options.unordered_write: 0
+2022/08/14-00:05:04.562443 18a4         Options.allow_concurrent_memtable_write: 1
+2022/08/14-00:05:04.562446 18a4      Options.enable_write_thread_adaptive_yield: 1
+2022/08/14-00:05:04.562448 18a4             Options.write_thread_max_yield_usec: 100
+2022/08/14-00:05:04.562451 18a4            Options.write_thread_slow_yield_usec: 3
+2022/08/14-00:05:04.562453 18a4                               Options.row_cache: None
+2022/08/14-00:05:04.562456 18a4                              Options.wal_filter: None
+2022/08/14-00:05:04.562494 18a4             Options.avoid_flush_during_recovery: 0
+2022/08/14-00:05:04.562498 18a4             Options.allow_ingest_behind: 0
+2022/08/14-00:05:04.562500 18a4             Options.preserve_deletes: 0
+2022/08/14-00:05:04.562503 18a4             Options.two_write_queues: 0
+2022/08/14-00:05:04.562505 18a4             Options.manual_wal_flush: 0
+2022/08/14-00:05:04.562508 18a4             Options.atomic_flush: 0
+2022/08/14-00:05:04.562510 18a4             Options.avoid_unnecessary_blocking_io: 0
+2022/08/14-00:05:04.562513 18a4                 Options.persist_stats_to_disk: 0
+2022/08/14-00:05:04.562515 18a4                 Options.write_dbid_to_manifest: 0
+2022/08/14-00:05:04.562518 18a4                 Options.log_readahead_size: 0
+2022/08/14-00:05:04.562520 18a4                 Options.file_checksum_gen_factory: Unknown
+2022/08/14-00:05:04.562523 18a4                 Options.best_efforts_recovery: 0
+2022/08/14-00:05:04.562525 18a4             Options.max_background_jobs: 2
+2022/08/14-00:05:04.562528 18a4             Options.max_background_compactions: -1
+2022/08/14-00:05:04.562530 18a4             Options.avoid_flush_during_shutdown: 0
+2022/08/14-00:05:04.562533 18a4           Options.writable_file_max_buffer_size: 1048576
+2022/08/14-00:05:04.562535 18a4             Options.delayed_write_rate : 16777216
+2022/08/14-00:05:04.562538 18a4             Options.max_total_wal_size: 0
+2022/08/14-00:05:04.562540 18a4             Options.delete_obsolete_files_period_micros: 21600000000
+2022/08/14-00:05:04.562543 18a4                   Options.stats_dump_period_sec: 600
+2022/08/14-00:05:04.562545 18a4                 Options.stats_persist_period_sec: 600
+2022/08/14-00:05:04.562548 18a4                 Options.stats_history_buffer_size: 1048576
+2022/08/14-00:05:04.562551 18a4                          Options.max_open_files: -1
+2022/08/14-00:05:04.562553 18a4                          Options.bytes_per_sync: 0
+2022/08/14-00:05:04.562556 18a4                      Options.wal_bytes_per_sync: 0
+2022/08/14-00:05:04.562558 18a4                   Options.strict_bytes_per_sync: 0
+2022/08/14-00:05:04.562561 18a4       Options.compaction_readahead_size: 0
+2022/08/14-00:05:04.562563 18a4                  Options.max_background_flushes: -1
+2022/08/14-00:05:04.562566 18a4 Compression algorithms supported:
+2022/08/14-00:05:04.562727 18a4 	kZSTD supported: 0
+2022/08/14-00:05:04.562731 18a4 	kSnappyCompression supported: 0
+2022/08/14-00:05:04.562734 18a4 	kBZip2Compression supported: 0
+2022/08/14-00:05:04.562736 18a4 	kZlibCompression supported: 1
+2022/08/14-00:05:04.562739 18a4 	kLZ4Compression supported: 1
+2022/08/14-00:05:04.562741 18a4 	kXpressCompression supported: 0
+2022/08/14-00:05:04.562744 18a4 	kLZ4HCCompression supported: 1
+2022/08/14-00:05:04.562746 18a4 	kZSTDNotFinalCompression supported: 0
+2022/08/14-00:05:04.562959 18a4 Fast CRC32 supported: Not supported on x86
+2022/08/14-00:05:04.568636 18a4 [db\version_set.cc:4515] Recovering from manifest file: C:\Users\Administrator\Desktop\FiveM\txData\astbeta\ast\db\default/MANIFEST-000005
+2022/08/14-00:05:04.573115 18a4 [db\column_family.cc:579] --------------- Options for column family [default]:
+2022/08/14-00:05:04.573130 18a4               Options.comparator: leveldb.BytewiseComparator
+2022/08/14-00:05:04.573180 18a4           Options.merge_operator: None
+2022/08/14-00:05:04.573186 18a4        Options.compaction_filter: None
+2022/08/14-00:05:04.573189 18a4        Options.compaction_filter_factory: None
+2022/08/14-00:05:04.573191 18a4         Options.memtable_factory: SkipListFactory
+2022/08/14-00:05:04.573194 18a4            Options.table_factory: BlockBasedTable
+2022/08/14-00:05:04.573231 18a4            table_factory options:   flush_block_policy_factory: FlushBlockBySizePolicyFactory (000001B8AF70CCA0)
+  cache_index_and_filter_blocks: 0
+  cache_index_and_filter_blocks_with_high_priority: 1
+  pin_l0_filter_and_index_blocks_in_cache: 0
+  pin_top_level_index_and_filter: 1
+  index_type: 0
+  data_block_index_type: 0
+  index_shortening: 1
+  data_block_hash_table_util_ratio: 0.750000
+  hash_index_allow_collision: 1
+  checksum: 1
+  no_block_cache: 0
+  block_cache: 000001B8AFF894D0
+  block_cache_name: LRUCache
+  block_cache_options:
+    capacity : 8388608
+    num_shard_bits : 4
+    strict_capacity_limit : 0
+    memory_allocator : None
+    high_pri_pool_ratio: 0.000
+  block_cache_compressed: 0000000000000000
+  persistent_cache: 0000000000000000
+  block_size: 4096
+  block_size_deviation: 10
+  block_restart_interval: 16
+  index_block_restart_interval: 1
+  metadata_block_size: 4096
+  partition_filters: 0
+  use_delta_encoding: 1
+  filter_policy: nullptr
+  whole_key_filtering: 1
+  verify_compression: 0
+  read_amp_bytes_per_bit: 0
+  format_version: 4
+  enable_index_compression: 1
+  block_align: 0
+2022/08/14-00:05:04.573236 18a4        Options.write_buffer_size: 67108864
+2022/08/14-00:05:04.573239 18a4  Options.max_write_buffer_number: 2
+2022/08/14-00:05:04.573242 18a4          Options.compression: LZ4
+2022/08/14-00:05:04.573244 18a4                  Options.bottommost_compression: Disabled
+2022/08/14-00:05:04.573247 18a4       Options.prefix_extractor: nullptr
+2022/08/14-00:05:04.573249 18a4   Options.memtable_insert_with_hint_prefix_extractor: nullptr
+2022/08/14-00:05:04.573252 18a4             Options.num_levels: 7
+2022/08/14-00:05:04.573254 18a4        Options.min_write_buffer_number_to_merge: 1
+2022/08/14-00:05:04.573257 18a4     Options.max_write_buffer_number_to_maintain: 0
+2022/08/14-00:05:04.573259 18a4     Options.max_write_buffer_size_to_maintain: 0
+2022/08/14-00:05:04.573262 18a4            Options.bottommost_compression_opts.window_bits: -14
+2022/08/14-00:05:04.573265 18a4                  Options.bottommost_compression_opts.level: 32767
+2022/08/14-00:05:04.573267 18a4               Options.bottommost_compression_opts.strategy: 0
+2022/08/14-00:05:04.573270 18a4         Options.bottommost_compression_opts.max_dict_bytes: 0
+2022/08/14-00:05:04.573272 18a4         Options.bottommost_compression_opts.zstd_max_train_bytes: 0
+2022/08/14-00:05:04.573275 18a4         Options.bottommost_compression_opts.parallel_threads: 1
+2022/08/14-00:05:04.573277 18a4                  Options.bottommost_compression_opts.enabled: false
+2022/08/14-00:05:04.573280 18a4            Options.compression_opts.window_bits: -14
+2022/08/14-00:05:04.573283 18a4                  Options.compression_opts.level: 32767
+2022/08/14-00:05:04.573285 18a4               Options.compression_opts.strategy: 0
+2022/08/14-00:05:04.573288 18a4         Options.compression_opts.max_dict_bytes: 0
+2022/08/14-00:05:04.573290 18a4         Options.compression_opts.zstd_max_train_bytes: 0
+2022/08/14-00:05:04.573293 18a4         Options.compression_opts.parallel_threads: 1
+2022/08/14-00:05:04.573295 18a4                  Options.compression_opts.enabled: false
+2022/08/14-00:05:04.573298 18a4      Options.level0_file_num_compaction_trigger: 4
+2022/08/14-00:05:04.573300 18a4          Options.level0_slowdown_writes_trigger: 20
+2022/08/14-00:05:04.573303 18a4              Options.level0_stop_writes_trigger: 36
+2022/08/14-00:05:04.573305 18a4                   Options.target_file_size_base: 67108864
+2022/08/14-00:05:04.573308 18a4             Options.target_file_size_multiplier: 1
+2022/08/14-00:05:04.573310 18a4                Options.max_bytes_for_level_base: 268435456
+2022/08/14-00:05:04.573314 18a4 Options.level_compaction_dynamic_level_bytes: 0
+2022/08/14-00:05:04.573318 18a4          Options.max_bytes_for_level_multiplier: 10.000000
+2022/08/14-00:05:04.573321 18a4 Options.max_bytes_for_level_multiplier_addtl[0]: 1
+2022/08/14-00:05:04.573324 18a4 Options.max_bytes_for_level_multiplier_addtl[1]: 1
+2022/08/14-00:05:04.573326 18a4 Options.max_bytes_for_level_multiplier_addtl[2]: 1
+2022/08/14-00:05:04.573329 18a4 Options.max_bytes_for_level_multiplier_addtl[3]: 1
+2022/08/14-00:05:04.573331 18a4 Options.max_bytes_for_level_multiplier_addtl[4]: 1
+2022/08/14-00:05:04.573334 18a4 Options.max_bytes_for_level_multiplier_addtl[5]: 1
+2022/08/14-00:05:04.573336 18a4 Options.max_bytes_for_level_multiplier_addtl[6]: 1
+2022/08/14-00:05:04.573339 18a4       Options.max_sequential_skip_in_iterations: 8
+2022/08/14-00:05:04.573341 18a4                    Options.max_compaction_bytes: 1677721600
+2022/08/14-00:05:04.573344 18a4                        Options.arena_block_size: 8388608
+2022/08/14-00:05:04.573346 18a4   Options.soft_pending_compaction_bytes_limit: 68719476736
+2022/08/14-00:05:04.573349 18a4   Options.hard_pending_compaction_bytes_limit: 274877906944
+2022/08/14-00:05:04.573352 18a4       Options.rate_limit_delay_max_milliseconds: 100
+2022/08/14-00:05:04.573354 18a4                Options.disable_auto_compactions: 0
+2022/08/14-00:05:04.573358 18a4                        Options.compaction_style: kCompactionStyleLevel
+2022/08/14-00:05:04.573361 18a4                          Options.compaction_pri: kMinOverlappingRatio
+2022/08/14-00:05:04.573364 18a4 Options.compaction_options_universal.size_ratio: 1
+2022/08/14-00:05:04.573366 18a4 Options.compaction_options_universal.min_merge_width: 2
+2022/08/14-00:05:04.573369 18a4 Options.compaction_options_universal.max_merge_width: 4294967295
+2022/08/14-00:05:04.573371 18a4 Options.compaction_options_universal.max_size_amplification_percent: 200
+2022/08/14-00:05:04.573374 18a4 Options.compaction_options_universal.compression_size_percent: -1
+2022/08/14-00:05:04.573377 18a4 Options.compaction_options_universal.stop_style: kCompactionStopStyleTotalSize
+2022/08/14-00:05:04.573379 18a4 Options.compaction_options_fifo.max_table_files_size: 1073741824
+2022/08/14-00:05:04.573382 18a4 Options.compaction_options_fifo.allow_compaction: 0
+2022/08/14-00:05:04.573387 18a4                   Options.table_properties_collectors: 
+2022/08/14-00:05:04.573390 18a4                   Options.inplace_update_support: 0
+2022/08/14-00:05:04.573392 18a4                 Options.inplace_update_num_locks: 10000
+2022/08/14-00:05:04.573395 18a4               Options.memtable_prefix_bloom_size_ratio: 0.000000
+2022/08/14-00:05:04.573398 18a4               Options.memtable_whole_key_filtering: 0
+2022/08/14-00:05:04.573400 18a4   Options.memtable_huge_page_size: 0
+2022/08/14-00:05:04.573403 18a4                           Options.bloom_locality: 0
+2022/08/14-00:05:04.573405 18a4                    Options.max_successive_merges: 0
+2022/08/14-00:05:04.573408 18a4                Options.optimize_filters_for_hits: 0
+2022/08/14-00:05:04.573411 18a4                Options.paranoid_file_checks: 0
+2022/08/14-00:05:04.573413 18a4                Options.force_consistency_checks: 0
+2022/08/14-00:05:04.573416 18a4                Options.report_bg_io_stats: 0
+2022/08/14-00:05:04.573418 18a4                               Options.ttl: 2592000
+2022/08/14-00:05:04.573421 18a4          Options.periodic_compaction_seconds: 0
+2022/08/14-00:05:04.577573 18a4 [db\version_set.cc:4672] Recovered from manifest file:C:\Users\Administrator\Desktop\FiveM\txData\astbeta\ast\db\default/MANIFEST-000005 succeeded,manifest_file_number is 5, next_file_number is 7, last_sequence is 0, log_number is 4,prev_log_number is 0,max_column_family is 0,min_log_number_to_keep is 0
+2022/08/14-00:05:04.577588 18a4 [db\version_set.cc:4681] Column family [default] (ID 0), log number is 4
+2022/08/14-00:05:04.581957 18a4 EVENT_LOG_v1 {"time_micros": 1660460704581949, "job": 1, "event": "recovery_started", "log_files": [6]}
+2022/08/14-00:05:04.582280 18a4 [db\db_impl\db_impl_open.cc:774] Recovering log #6 mode 2
+2022/08/14-00:05:04.582897 18a4 [db\version_set.cc:3920] Creating manifest 8
+2022/08/14-00:05:04.585398 18a4 EVENT_LOG_v1 {"time_micros": 1660460704585390, "job": 1, "event": "recovery_finished"}
+2022/08/14-00:05:04.587521 18a4 [file\delete_scheduler.cc:73] Deleted file C:\Users\Administrator\Desktop\FiveM\txData\astbeta\ast\db\default/000006.log immediately, rate_bytes_per_sec 0, total_trash_size 0 max_trash_db_ratio 0.250000
+2022/08/14-00:05:04.596026 18a4 [db\db_impl\db_impl_open.cc:1576] SstFileManager instance 000001B8AFFB2A70
+2022/08/14-00:05:04.596509 18a4 DB pointer 000001B8AFA1FD70
+2022/08/14-00:05:04.597414 26fc [db\db_impl\db_impl.cc:854] ------- DUMPING STATS -------
+2022/08/14-00:05:04.597427 26fc [db\db_impl\db_impl.cc:855] 
+** DB Stats **
+Uptime(secs): 0.0 total, 0.0 interval
+Cumulative writes: 0 writes, 0 keys, 0 commit groups, 0.0 writes per commit group, ingest: 0.00 GB, 0.00 MB/s
+Cumulative WAL: 0 writes, 0 syncs, 0.00 writes per sync, written: 0.00 GB, 0.00 MB/s
+Cumulative stall: 00:00:0.000 H:M:S, 0.0 percent
+Interval writes: 0 writes, 0 keys, 0 commit groups, 0.0 writes per commit group, ingest: 0.00 MB, 0.00 MB/s
+Interval WAL: 0 writes, 0 syncs, 0.00 writes per sync, written: 0.00 MB, 0.00 MB/s
+Interval stall: 00:00:0.000 H:M:S, 0.0 percent
+
+** Compaction Stats [default] **
+Level    Files   Size     Score Read(GB)  Rn(GB) Rnp1(GB) Write(GB) Wnew(GB) Moved(GB) W-Amp Rd(MB/s) Wr(MB/s) Comp(sec) CompMergeCPU(sec) Comp(cnt) Avg(sec) KeyIn KeyDrop
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Sum      0/0    0.00 KB   0.0      0.0     0.0      0.0       0.0      0.0       0.0   0.0      0.0      0.0      0.00              0.00         0    0.000       0      0
+ Int      0/0    0.00 KB   0.0      0.0     0.0      0.0       0.0      0.0       0.0   0.0      0.0      0.0      0.00              0.00         0    0.000       0      0
+
+** Compaction Stats [default] **
+Priority    Files   Size     Score Read(GB)  Rn(GB) Rnp1(GB) Write(GB) Wnew(GB) Moved(GB) W-Amp Rd(MB/s) Wr(MB/s) Comp(sec) CompMergeCPU(sec) Comp(cnt) Avg(sec) KeyIn KeyDrop
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Uptime(secs): 0.0 total, 0.0 interval
+Flush(GB): cumulative 0.000, interval 0.000
+AddFile(GB): cumulative 0.000, interval 0.000
+AddFile(Total Files): cumulative 0, interval 0
+AddFile(L0 Files): cumulative 0, interval 0
+AddFile(Keys): cumulative 0, interval 0
+Cumulative compaction: 0.00 GB write, 0.00 MB/s write, 0.00 GB read, 0.00 MB/s read, 0.0 seconds
+Interval compaction: 0.00 GB write, 0.00 MB/s write, 0.00 GB read, 0.00 MB/s read, 0.0 seconds
+Stalls(count): 0 level0_slowdown, 0 level0_slowdown_with_compaction, 0 level0_numfiles, 0 level0_numfiles_with_compaction, 0 stop for pending_compaction_bytes, 0 slowdown for pending_compaction_bytes, 0 memtable_compaction, 0 memtable_slowdown, interval 0 total count
+
+** File Read Latency Histogram By Level [default] **
+
+** Compaction Stats [default] **
+Level    Files   Size     Score Read(GB)  Rn(GB) Rnp1(GB) Write(GB) Wnew(GB) Moved(GB) W-Amp Rd(MB/s) Wr(MB/s) Comp(sec) CompMergeCPU(sec) Comp(cnt) Avg(sec) KeyIn KeyDrop
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Sum      0/0    0.00 KB   0.0      0.0     0.0      0.0       0.0      0.0       0.0   0.0      0.0      0.0      0.00              0.00         0    0.000       0      0
+ Int      0/0    0.00 KB   0.0      0.0     0.0      0.0       0.0      0.0       0.0   0.0      0.0      0.0      0.00              0.00         0    0.000       0      0
+
+** Compaction Stats [default] **
+Priority    Files   Size     Score Read(GB)  Rn(GB) Rnp1(GB) Write(GB) Wnew(GB) Moved(GB) W-Amp Rd(MB/s) Wr(MB/s) Comp(sec) CompMergeCPU(sec) Comp(cnt) Avg(sec) KeyIn KeyDrop
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Uptime(secs): 0.0 total, 0.0 interval
+Flush(GB): cumulative 0.000, interval 0.000
+AddFile(GB): cumulative 0.000, interval 0.000
+AddFile(Total Files): cumulative 0, interval 0
+AddFile(L0 Files): cumulative 0, interval 0
+AddFile(Keys): cumulative 0, interval 0
+Cumulative compaction: 0.00 GB write, 0.00 MB/s write, 0.00 GB read, 0.00 MB/s read, 0.0 seconds
+Interval compaction: 0.00 GB write, 0.00 MB/s write, 0.00 GB read, 0.00 MB/s read, 0.0 seconds
+Stalls(count): 0 level0_slowdown, 0 level0_slowdown_with_compaction, 0 level0_numfiles, 0 level0_numfiles_with_compaction, 0 stop for pending_compaction_bytes, 0 slowdown for pending_compaction_bytes, 0 memtable_compaction, 0 memtable_slowdown, interval 0 total count
+
+** File Read Latency Histogram By Level [default] **
+2022/08/14-00:09:04.649142 168c [db\db_impl\db_impl.cc:401] Shutdown: canceling all background work
+2022/08/14-00:09:04.651350 168c [db\db_impl\db_impl.cc:577] Shutdown complete

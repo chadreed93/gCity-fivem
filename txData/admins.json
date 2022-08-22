@@ -1,0 +1,52 @@
+[
+  {
+    "name": "ASTClanReborn",
+    "master": true,
+    "password_hash": "$2a$11$Vj.caSotcewtW8IBimf1L.WP.2KaqBEp9JT0.vBzZm1zY2qYc9c8K",
+    "providers": {
+      "citizenfx": {
+        "id": "ASTClanReborn",
+        "identifier": "fivem:6346624",
+        "data": {
+          "sub": "684e226be46b8165a275522655fd65b9",
+          "nameid": "https://forum.cfx.re/internal/user/6346624",
+          "name": "ASTClanReborn",
+          "picture": "https://avatars.discourse.org/v4/letter/a/7933a0/256.png",
+          "profile": "https://forum.cfx.re/u/ASTClanReborn"
+        }
+      }
+    },
+    "permissions": []
+  },
+  {
+    "name": "B34R",
+    "master": false,
+    "password_hash": "$2a$11$bkHbrtiLhBmGWPTr30pzWewr1zNXFJQSmQrhVIWanmn2jUDeJt/4.",
+    "providers": {
+      "discord": {
+        "id": "421883819231150091",
+        "identifier": "discord:421883819231150091",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "Nate",
+    "master": false,
+    "password_hash": "$2a$11$EwZOUumaXZpf2K0c5uaMdeuNnVJDcQK1BtzlHUfDXA8SUJ0LBk1AO",
+    "password_temporary": true,
+    "providers": {
+      "discord": {
+        "id": "185901595744010241",
+        "identifier": "discord:185901595744010241",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]

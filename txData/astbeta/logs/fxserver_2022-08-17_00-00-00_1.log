@@ -1,0 +1,17 @@
+
+================================================================
+======== Log Rotated - 8/17/2022, 12:00:01 AM                   
+================================================================
+[      script:oxmysql] [WARNING] qb-crypto took 217.0809ms to execute a query!
+[      script:oxmysql]     UPDATE crypto set worth = ?, history = ? where crypto = ? [1198,"[{\"PreviousWorth\":1200,\"NewWorth\":1190},{\"PreviousWorth\":1200,\"NewWorth\":1190},{\"PreviousWorth\":1200,\"NewWorth\":1190},{\"PreviousWorth\":1190,\"NewWorth\":1198}]","qbit"]
+[ citizen-server-impl] sync thread hitch warning: timer interval of 176 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 178 milliseconds
+[ script:connectqueue] QUEUE: [97mSecret_Beast[steam:11000013d4551a6] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: Secret_Beast[steam:11000013d4551a6] is loading into the server
+[      script:qb-core] [qb-core:LOG] Secret_Beast PLAYER SAVED!
+[script:qb-multichara] [qb-core][0m Secret_Beast has succesfully loaded!
+[      script:qb-core] [qb-core:LOG] Secret_Beast PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Secret_Beast PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Secret_Beast PLAYER SAVED!
+[      script:oxmysql] [WARNING] qb-crypto took 867.5103ms to execute a query!
+[      script:oxmysql]     UPDATE crypto set worth = ?, history = ? where crypto = ? [1243,"[{\"PreviousWorth\":1249,\"NewWorth\":1249},{\"PreviousWorth\":1249,\"NewWorth\":1249},{\"PreviousWorth\":1249,\"NewWorth\":1249},{\"PreviousWorth\":1249,\"NewWorth\":1243}]","qbit"]

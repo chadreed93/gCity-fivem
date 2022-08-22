@@ -1,0 +1,107 @@
+
+================================================================
+======== Log Rotated - 8/21/2022, 12:00:00 AM                   
+================================================================
+[   script:sonorancad] Debug: HTTP error caught: {"errno":-4077,"code":"ECONNRESET","syscall":"read"}
+[   script:sonorancad] [00:13:28][SonoranCAD:ERROR] CAD API ERROR (from https://api.sonorancad.com/emergency/get_calls): nil table: 00000191B00E88C0
+[script:smartsigns_so] [sonoran_smartsigns] An update is available (1.3.3 ~= 1.3.1)! Please visit your keymaster account (https://keymaster.fivem.net/asset-grants) to download it.
+[script:smartsigns_so] [sonoran_smartsigns] An update is available (1.3.3 ~= 1.3.1)! Please visit your keymaster account (https://keymaster.fivem.net/asset-grants) to download it.
+[      script:hardcap] Connecting: Country
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Added Country to role group group.unrestrict
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Added Country to role group group.member
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Added Country to role group group.admin
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Added Country to role group group.cadmin
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Added Country to role group group.leo
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Player Country has been granted their permissions...
+[      script:oxmysql] SCRIPT ERROR in promise (unhandled): Error: Weapons-Menu was unable to execute a query!
+[      script:oxmysql] Table 'ndframework.markomods_loadouts' doesn't exist
+[      script:oxmysql] SELECT * FROM markomods_loadouts WHERE license = ? ["license:79e72fe6942b0a0728e645f198345d8d0bfef7eb"]
+[      script:oxmysql] > <unknown> (@oxmysql/dist/build.js:21750)
+[      script:oxmysql] > processTicksAndRejections (node:internal/process/task_queues:96)
+[      script:oxmysql] > async rawQuery (@oxmysql/dist/build.js:21719)
+[      script:oxmysql] 
+[   script:ast_idTags] SCRIPT ERROR: @ast_idTags/server.lua:168: attempt to index a nil value (field '?')
+[   script:ast_idTags] > handler (@ast_idTags/server.lua:168)
+[script:DiscordAcePer] [DiscordAcePerms] (playerDropped) Removed Country from role group group.unrestrict
+[script:DiscordAcePer] [DiscordAcePerms] (playerDropped) Removed Country from role group group.member
+[script:DiscordAcePer] [DiscordAcePerms] (playerDropped) Removed Country from role group group.admin
+[script:DiscordAcePer] [DiscordAcePerms] (playerDropped) Removed Country from role group group.cadmin
+[script:DiscordAcePer] [DiscordAcePerms] (playerDropped) Removed Country from role group group.leo
+[script:smartsigns_so] [sonoran_smartsigns] An update is available (1.3.3 ~= 1.3.1)! Please visit your keymaster account (https://keymaster.fivem.net/asset-grants) to download it.
+[      script:hardcap] Connecting: Country[0m
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Added Country to role group group.unrestrict
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Added Country to role group group.member
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Added Country to role group group.admin
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Added Country to role group group.cadmin
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Added Country to role group group.leo
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Player Country has been granted their permissions...
+[      script:oxmysql] SCRIPT ERROR in promise (unhandled): Error: Weapons-Menu was unable to execute a query!
+[      script:oxmysql] Table 'ndframework.markomods_loadouts' doesn't exist
+[      script:oxmysql] SELECT * FROM markomods_loadouts WHERE license = ? ["license:79e72fe6942b0a0728e645f198345d8d0bfef7eb"]
+[      script:oxmysql] > <unknown> (@oxmysql/dist/build.js:21750)
+[      script:oxmysql] > processTicksAndRejections (node:internal/process/task_queues:96)
+[      script:oxmysql] > async rawQuery (@oxmysql/dist/build.js:21719)
+[      script:oxmysql] 
+[   script:ast_idTags] SCRIPT ERROR: @ast_idTags/server.lua:168: attempt to index a nil value (field '?')
+[   script:ast_idTags] > handler (@ast_idTags/server.lua:168)
+[script:DiscordAcePer] [DiscordAcePerms] (playerDropped) Removed Country from role group group.unrestrict
+[script:DiscordAcePer] [DiscordAcePerms] (playerDropped) Removed Country from role group group.member
+[script:DiscordAcePer] [DiscordAcePerms] (playerDropped) Removed Country from role group group.admin
+[script:DiscordAcePer] [DiscordAcePerms] (playerDropped) Removed Country from role group group.cadmin
+[script:DiscordAcePer] [DiscordAcePerms] (playerDropped) Removed Country from role group group.leo
+[script:smartsigns_so] [sonoran_smartsigns] An update is available (1.3.3 ~= 1.3.1)! Please visit your keymaster account (https://keymaster.fivem.net/asset-grants) to download it.
+[      script:hardcap] Connecting: Country
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Added Country to role group group.unrestrict
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Added Country to role group group.member
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Added Country to role group group.admin
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Added Country to role group group.cadmin
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Added Country to role group group.leo
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Player Country has been granted their permissions...
+[      script:oxmysql] SCRIPT ERROR in promise (unhandled): Error: Weapons-Menu was unable to execute a query!
+[      script:oxmysql] Table 'ndframework.markomods_loadouts' doesn't exist
+[      script:oxmysql] SELECT * FROM markomods_loadouts WHERE license = ? ["license:79e72fe6942b0a0728e645f198345d8d0bfef7eb"]
+[      script:oxmysql] > <unknown> (@oxmysql/dist/build.js:21750)
+[      script:oxmysql] > processTicksAndRejections (node:internal/process/task_queues:96)
+[      script:oxmysql] > async rawQuery (@oxmysql/dist/build.js:21719)
+[      script:oxmysql] [0m
+[   script:ast_idTags] SCRIPT ERROR: @ast_idTags/server.lua:168: attempt to index a nil value (field '?')
+[   script:ast_idTags] > handler (@ast_idTags/server.lua:168)
+[script:DiscordAcePer] [DiscordAcePerms] (playerDropped) Removed Country from role group group.unrestrict
+[script:DiscordAcePer] [DiscordAcePerms] (playerDropped) Removed Country from role group group.member
+[script:DiscordAcePer] [DiscordAcePerms] (playerDropped) Removed Country from role group group.admin
+[script:DiscordAcePer] [DiscordAcePerms] (playerDropped) Removed Country from role group group.cadmin
+[script:DiscordAcePer] [DiscordAcePerms] (playerDropped) Removed Country from role group group.leo
+[script:smartsigns_so] [sonoran_smartsigns] An update is available (1.3.3 ~= 1.3.1)! Please visit your keymaster account (https://keymaster.fivem.net/asset-grants) to download it.
+[script:smartsigns_so] [sonoran_smartsigns] An update is available (1.3.3 ~= 1.3.1)! Please visit your keymaster account (https://keymaster.fivem.net/asset-grants) to download it.
+[script:smartsigns_so] [sonoran_smartsigns] An update is available (1.3.3 ~= 1.3.1)! Please visit your keymaster account (https://keymaster.fivem.net/asset-grants) to download it.
+[script:smartsigns_so] [sonoran_smartsigns] An update is available (1.3.3 ~= 1.3.1)! Please visit your keymaster account (https://keymaster.fivem.net/asset-grants) to download it.
+[script:smartsigns_so] [sonoran_smartsigns] An update is available (1.3.3 ~= 1.3.1)! Please visit your keymaster account (https://keymaster.fivem.net/asset-grants) to download it.
+[script:smartsigns_so] [sonoran_smartsigns] An update is available (1.3.3 ~= 1.3.1)! Please visit your keymaster account (https://keymaster.fivem.net/asset-grants) to download it.
+[script:smartsigns_so] [sonoran_smartsigns] An update is available (1.3.3 ~= 1.3.1)! Please visit your keymaster account (https://keymaster.fivem.net/asset-grants) to download it.
+[script:smartsigns_so] [sonoran_smartsigns] An update is available (1.3.3 ~= 1.3.1)! Please visit your keymaster account (https://keymaster.fivem.net/asset-grants) to download it.
+[script:smartsigns_so] [sonoran_smartsigns] An update is available (1.3.3 ~= 1.3.1)! Please visit your keymaster account (https://keymaster.fivem.net/asset-grants) to download it.
+[script:smartsigns_so] [sonoran_smartsigns] An update is available (1.3.3 ~= 1.3.1)! Please visit your keymaster account (https://keymaster.fivem.net/asset-grants) to download it.
+[script:smartsigns_so] [sonoran_smartsigns] An update is available (1.3.3 ~= 1.3.1)! Please visit your keymaster account (https://keymaster.fivem.net/asset-grants) to download it.
+[      script:hardcap] Connecting: B34R
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Added B34R to role group group.superadmin
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Added B34R to role group group.leo
+[script:DiscordAcePer] [DiscordAcePerms] (playerConnecting) Player B34R has been granted their permissions...
+[      script:oxmysql] SCRIPT ERROR in promise (unhandled): Error: Weapons-Menu was unable to execute a query!
+[      script:oxmysql] Table 'ndframework.markomods_loadouts' doesn't exist
+[      script:oxmysql] SELECT * FROM markomods_loadouts WHERE license = ? ["license:d1701434a075a4dea66c41c041b1cbbf4f56741a"]
+[      script:oxmysql] > <unknown> (@oxmysql/dist/build.js:21750)
+[      script:oxmysql] > processTicksAndRejections (node:internal/process/task_queues:96)
+[      script:oxmysql] > async rawQuery (@oxmysql/dist/build.js:21719)
+[      script:oxmysql] 
+[   script:ast_idTags] SCRIPT ERROR: @ast_idTags/server.lua:168: attempt to index a nil value (field '?')
+[   script:ast_idTags] > handler (@ast_idTags/server.lua:168)
+[script:DiscordAcePer] [DiscordAcePerms] (playerDropped) Removed B34R from role group group.superadmin
+[script:DiscordAcePer] [DiscordAcePerms] (playerDropped) Removed B34R from role group group.leo
+[script:smartsigns_so] [sonoran_smartsigns] An update is available (1.3.3 ~= 1.3.1)! Please visit your keymaster account (https://keymaster.fivem.net/asset-grants) to download it.
+[script:smartsigns_so] [sonoran_smartsigns] An update is available (1.3.3 ~= 1.3.1)! Please visit your keymaster account (https://keymaster.fivem.net/asset-grants) to download it.
+[   script:sonorancad] Debug: HTTP error caught: {"errno":-4077,"code":"ECONNRESET","syscall":"read"}
+[   script:sonorancad] [17:01:57][SonoranCAD:ERROR] CAD API ERROR (from https://api.sonorancad.com/emergency/get_calls): nil table: 00000191B11465C0
+[ citizen-server-impl] sync thread hitch warning: timer interval of 180 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 175 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 178 milliseconds
+[ citizen-server-main] -> Quitting: SIGHUP received
