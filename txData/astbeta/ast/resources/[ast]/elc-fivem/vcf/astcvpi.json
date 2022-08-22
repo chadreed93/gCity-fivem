@@ -1,0 +1,94 @@
+{
+  "description": "elc cvpi modkit",
+  "interface": {
+     "activationtype": "manual",
+     "infopanelbuttonlightcolor": {
+        "red": 255,
+        "green": 60,
+        "blue": 60
+     }
+  },
+  "misc": {
+    "patterntype": "leds",
+    "steadyburn": {
+      "enabled": false,
+      "steadyburn_misc": "misc_o"
+    },
+    "cruiselights": {
+      "enabled": true,
+      "miscs": [ "misc_a", "misc_f", "misc_i", "misc_p" ]
+    },
+    "usetrafficadvisor": true,
+    "stagethreeautosiren": false,
+    "alleylighting": {
+      "enabled": true,
+      "miscs":  [ "misc_a", "misc_f" ]
+    },
+    "lightcolors": {
+      "left": "red",
+      "right": "blue",
+      "traf": "amber"
+    }
+  },
+  "front": {
+     "startpattern": 1,
+     "setup": {
+        "misc_a": { "color": "left",  "offset": 0.14, "rotation": 45.0 },
+        "misc_b": { "color": "left",  "offset": 0.08 },
+        "misc_c": { "color": "left",  "offset": 0.08 },
+        "misc_d": { "color": "right", "offset": 0.08 },
+        "misc_e": { "color": "right", "offset": 0.08 },
+        "misc_f": { "color": "right", "offset": 0.14, "rotation": -45.0 },
+        "misc_g": { "color": "right", "offset": 0.08 },
+        "misc_h": { "color": "left",  "offset": 0.08 },
+        "misc_1": { "color": "left",  "offset": 0.08 },
+        "misc_2": { "color": "right", "offset": 0.08 },
+		"misc_y": { "color": "right", "offset": 0.08 },
+		"misc_z": { "color": "left", "offset": 0.08 }
+     }
+  },
+  "rear": {
+     "startpattern": 1,
+     "setup": {
+        "misc_i": { "color": "left",  "offset": -0.14, "rotation": 139.0 },
+        "misc_j": { "color": "left",  "offset": -0.08 },
+        "misc_k": { "color": "left",  "offset": -0.08 },
+        "misc_l": { "color": "left",  "offset": -0.08 },
+        "misc_m": { "color": "right", "offset": -0.08 },
+        "misc_n": { "color": "right", "offset": -0.08 },
+        "misc_o": { "color": "right", "offset": -0.08 },
+        "misc_p": { "color": "right", "offset": -0.14, "rotation": -139.0 },
+        "misc_q": { "color": "right", "offset": -0.08 },
+        "misc_r": { "color": "left",  "offset": -0.08 }
+     }
+  },
+  "trafficadvisor": {
+    "patterntype": "traf",
+    "setup": {
+        "misc_s": { "color": "traf",  "offset": -0.18 },
+        "misc_t": { "color": "traf",  "offset": -0.18 },
+        "misc_u": { "color": "traf",  "offset": -0.18 },
+        "misc_v": { "color": "traf",  "offset": -0.18 },
+        "misc_w": { "color": "traf",  "offset": -0.18 },
+        "misc_x": { "color": "traf",  "offset": -0.18 }
+    }
+  },
+  "sounds": {
+     "mainhorn": {
+        "interruptssiren": true,
+        "audiostring": "SIRENS_AIRHORN"
+     },
+     "srntone1": {
+        "allowuse": true,
+        "audiostring": "VEHICLES_HORNS_SIREN_1"
+     },
+     "srntone2": {
+        "allowuse": true,
+        "audiostring": "VEHICLES_HORNS_SIREN_2"
+     },
+     "srntone3": {
+        "allowuse": true,
+        "audiostring": "VEHICLES_HORNS_POLICE_WARNING"
+     }
+  }
+}

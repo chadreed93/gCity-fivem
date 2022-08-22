@@ -1,0 +1,332 @@
+<?xml version="1.0" ?>
+<!-- by Ethan Rubinacci -->
+<!-- Property of Alaska State Troopers: Reborn -->
+<!-- DO NOT REUSE OR REDISTRUBTE WITHOUT EXPRESS PERMISSION -->
+<!-- LAST Modified: 03/19/2022 by E. Rubinacci - AST0001 -->
+<!-- Internal Development Team -->
+<CVehicleModelInfoVariation>
+  <variationData>
+    <!-- START AST CVPI -->
+	<Item>
+      <modelName>astcvpi</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+				  134 
+				  73                     
+				  134 
+				  134 
+				  73 
+				  73
+          </indices>
+        </Item>
+      </colors>
+	  <kits>
+		<Item>elc_vehicle</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="2"/>
+    </Item>
+	<!-- AST FPIS -->
+	<Item>
+      <modelName>astfpis</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+				  134 
+				  73                     
+				  134 
+				  134 
+				  73 
+				  73
+          </indices>
+        </Item>
+      </colors>
+	  <kits>
+		<Item>elc_vehicle</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="2"/>
+    </Item>
+	<!-- AST F150 -->
+	<Item>
+      <modelName>astf150</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+				  134 
+				  73                     
+				  134 
+				  134 
+				  73 
+				  73
+          </indices>
+        </Item>
+      </colors>
+	  <kits>
+		<Item>elc_vehicle</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="2"/>
+    </Item>
+    <!-- AST 20 FPIU -->
+    <Item>
+      <modelName>ast20fpiu</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            134
+            0
+            64
+            64
+            64
+			64
+          </indices>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>elc_vehicle</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="701"/>
+      <sirenSettings value="1"/>
+    </Item>
+    <!-- AST 14 CHGR -->
+    <Item>
+      <modelName>ast14charger</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            134
+            0
+            64
+            64
+            64
+			64
+          </indices>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>elc_vehicle</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="1"/>
+    </Item>
+    <!-- AST 20 CHGR -->
+    <Item>
+      <modelName>ast20charger</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            134
+            0
+            64
+            64
+            64
+			64
+          </indices>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>elc_vehicle</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="1"/>
+    </Item>
+   <!-- AST 09 CHGR -->
+    <Item>
+      <modelName>ast09charger</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            134
+            0
+            64
+            64
+            64
+			64
+          </indices>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>elc_vehicle</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="1"/>
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
